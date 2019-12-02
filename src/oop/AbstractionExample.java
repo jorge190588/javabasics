@@ -27,7 +27,7 @@ public static void main(String args[]) {
 /* Abstraction: Is the quality of dealing with ideas rather than events. 
  * 				Also, abstraction is a process of hiding the implementation details from the user too.
  *  			Is achieved using Abstract classes and interfaces.
- *  			Cann't be instance (Vehicle), but wether can be inherited of other class (Car)
+ *  			Cann't be instance (Vehicle), but whether can be inherited of other class (Car)
  *   *  */
 
 abstract class Vehicle extends PrintInConsole {
